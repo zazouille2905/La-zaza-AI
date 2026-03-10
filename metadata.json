@@ -1,0 +1,5 @@
+{
+  "name": "Zaza - Elsa's AI Assistant",
+  "description": "A bilingual personal AI assistant for Elsa Planes, featuring real-time voice interaction and a futuristic visualizer.",
+  "requestFramePermissions": ["microphone"]
+}
